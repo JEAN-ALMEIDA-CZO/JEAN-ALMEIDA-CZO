@@ -1,5 +1,5 @@
 <div align="center">
-     <img src="Profile.png" alt="Animated Developer Coding" width="250">
+     <img src="Profile.png" alt="Animated Developer Coding" width="500">
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=%237aa2f7&size=26&center=true&vCenter=true&width=800&height=50&lines=Software+Architect;FullStack+Engineer;Senior+Developer;Problem+Solver;" alt="Headline" />
 
