@@ -1,53 +1,67 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-</div>
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=FullStack+Engineer;Apaixonado+por+Tecnologia;Resolvedor+de+Problemas;Analista+de+Sistemas;" alt="Headline" />
+     <img src="Profile.png" alt="Animated Developer Coding" width="250">
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=%237aa2f7&size=26&center=true&vCenter=true&width=800&height=50&lines=Software+Architect;FullStack+Engineer;Senior+Developer;Problem+Solver;" alt="Headline" />
+
 </div>
 
-<h1 align="center">Olá 👋, Eu sou Jean Almeida</h1>
-<h3 align="center">Analista de Sistemas residente em Itapema-SC, Brasil.</h3>
+<h1 align="center">Hello 👋, I'm Jean Almeida</h1>
+<h3 align="center">Software Architect & Senior Developer | Itapema-SC, Brazil 🇧🇷</h3>
 
 <p align="center">
-    Sou apaixonado por tecnologia e movido por desafios. Gosto de resolver problemas complexos, identificar oportunidades de melhoria e criar soluções eficientes. Meu objetivo é sempre agregar valor através da técnica, buscando entender o cenário como um todo para entregar o melhor resultado possível.
-</p>
-
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=JEAN-ALMEIDA-CZO&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="JEAN-ALMEIDA-CZO" /> 
+    I am passionate about technology and driven by challenges. I enjoy architecting enterprise solutions, solving complex problems, and creating efficient automations. My goal is always to add value through clean code, solid architecture, and scalable systems to deliver the best possible results.
 </p>
 
 <div align="center">
-
-- 🔭 Atualmente, eu trabalho na **[Orcatea Contabilidade](https://site.orcatea.com.br/)**.
-- 📂 Confira meu Portfólio de Projetos: **[Acesse aqui](https://portifolio.athos.app.br)**
-- 📫 Este é meu e-mail para contato: **jeanalmeida418@gmail.com**
-
+    <img src="https://komarev.com/ghpvc/?username=JEAN-ALMEIDA-CZO&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </div>
-
+<br>
+<div align="center">
+    <a href="https://site.orcatea.com.br/"><img src="https://img.shields.io/badge/🏢_Work-Orcatea_Contabilidade-1a1b26?style=for-the-badge&logoColor=white&labelColor=0e75b6" alt="Orcatea" /></a>
+    <a href="https://portifolio.athos.app.br"><img src="https://img.shields.io/badge/💼_Portfolio-View_Here-1a1b26?style=for-the-badge&logoColor=white&labelColor=2ea44f" alt="Portfolio" /></a>
+    <a href="mailto:jeanalmeida418@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-jeanalmeida418@gmail.com-1a1b26?style=for-the-badge&logoColor=white&labelColor=d14836" alt="Email" /></a>
+</div>
 <br>
 
-<h3 align="center">Tecnologias e Ferramentas:</h3>
+---
+
+<h3 align="center">💻 Technologies and Tools</h3>
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,electron,java,postman,bootstrap,wordpress,ai,unreal,vscode,visualstudio,eclipse,sublime,windows&perline=20" alt="Minhas Habilidades" />
+        <img src="https://skillicons.dev/icons?i=php,nodejs,js,mysql,html,css,tailwind,bootstrap,electron,java,wordpress,postman,vscode,visualstudio,ai,windows&perline=8" alt="My Skills" />
     </a>
 </div>
-
 <br>
 
-<h3 align="center">Entre em contato comigo:</h3>
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+    <a href="https://github.com/JEAN-ALMEIDA-CZO">
+        <img src="https://github-readme-stats.vercel.app/api?username=JEAN-ALMEIDA-CZO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
+    </a>
+    <a href="https://github.com/JEAN-ALMEIDA-CZO">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEAN-ALMEIDA-CZO&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="160"/>
+    </a>
+</div>
+<br>
+
+<h3 align="center">🔥 Commit Streak</h3>
+
+<div align="center">
+    <a href="https://github.com/JEAN-ALMEIDA-CZO">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEAN-ALMEIDA-CZO&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+    </a>
+</div>
+<br>
+
+<h3 align="center">🤝 Get in touch with me</h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/jeanc-almeida/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    &nbsp;
     <a href="https://www.instagram.com/jean.almeida.czo/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-    </a>
-    &nbsp;
-    <a href="mailto:jeanalmeida418@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
 </div>
