@@ -38,10 +38,10 @@
 
 <div align="center">
     <a href="https://github.com/JEAN-ALMEIDA-CZO">
-        <img src="https://github-readme-stats.vercel.app/api?username=JEAN-ALMEIDA-CZO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JEAN-ALMEIDA-CZO&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="160"/>
     </a>
     <a href="https://github.com/JEAN-ALMEIDA-CZO">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEAN-ALMEIDA-CZO&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="160"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JEAN-ALMEIDA-CZO&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages" height="160"/>
     </a>
 </div>
 <br>
