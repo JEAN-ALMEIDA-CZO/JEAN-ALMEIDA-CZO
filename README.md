@@ -46,14 +46,6 @@
 </div>
 <br>
 
-<h3 align="center">🔥 Commit Streak</h3>
-
-<div align="center">
-    <a href="https://github.com/JEAN-ALMEIDA-CZO">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEAN-ALMEIDA-CZO&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-    </a>
-</div>
-<br>
 
 <h3 align="center">🤝 Get in touch with me</h3>
 
